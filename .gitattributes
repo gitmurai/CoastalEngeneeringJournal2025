@@ -1,0 +1,5 @@
+I_InputFiles/* filter=lfs diff=lfs merge=lfs -text
+I_Raw/* filter=lfs diff=lfs merge=lfs -text
+O_AngleImage/* filter=lfs diff=lfs merge=lfs -text
+O_LuminunceImage/* filter=lfs diff=lfs merge=lfs -text
+O_Tiff/* filter=lfs diff=lfs merge=lfs -text
