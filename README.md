@@ -17,7 +17,7 @@ multi-directional photometric analysis; UAV photogrammetry; gravel structures; m
 ## Appendix
 The appendix includes two core programs and multiple input files.
 - ForCoastal_00_Tool_Raw2Tiff_Ver202406.ipynb
-- ForCoastal_01_dsm-OlPh-PhA-OANomal_Ver202406ipynb.ipynb
+- ForCoastal_01_dsm-OlPh-PhA-OANomal_Ver202406.ipynbw
 - I_InputFiles
     - Kotogahama-20231228-1153-P1_CameraOmegaPhiKappa.txt
     - Kotogahama-20231228-1153-P1_CameraXML.xml
